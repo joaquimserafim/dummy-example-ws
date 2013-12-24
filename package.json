@@ -1,0 +1,22 @@
+{
+  "name": "dummy-data",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquimserafim/dummy-data.git"
+  },
+  "author": "@joaquimserafim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaquimserafim/dummy-data/issues"
+  },
+  "homepage": "https://github.com/joaquimserafim/dummy-data",
+  "dependencies": {
+    "event-stream": "~3.0.20"
+  }
+}
